@@ -2,6 +2,9 @@ Curso de programaciób de Servicios WEB, donde implementaremos un Frontend en Bl
 
 Links de interes:
 
+El curso
+https://www.youtube.com/watch?v=dcaYK5GjsH4&list=PLuEZQoW9bRnRWqz7qIF-urUTfEG9kEUes&index=2
+
 Instalación del ambiente de desarrollo:
 https://docs.google.com/document/d/1E...
 
